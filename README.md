@@ -11,6 +11,10 @@ Always learning and striving to improve!
 [![Twitter](https://img.shields.io/twitter/follow/ahmed?style=social)](https://twitter.com/ahmedfarhat25)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ahmedfarhat)
 
+## Competitive Programming Profiles:
+- [Codeforces](https://codeforces.com/profile/Ahmed-Farhat)
+- [LeetCode](https://leetcode.com/u/Ahmed_Farhat/)
+
 ## Languages and Tools:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)

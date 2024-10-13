@@ -1,19 +1,25 @@
-# Hi 👋, I'm [Ahmed Farhat]
-Passionate about [Programming]
+# Hi 👋, I'm Ahmed Farhat
+I am passionate about Software Development and competitive programming.  
+Always learning and striving to improve!
 
-- 🌱 I’m currently learning [back end with java]
-- 📫 How to reach me: [ahmedfarhatsayed2@hmail.com]
+- 🌱 I’m currently learning **Java** and focusing on **competitive programming** challenges.
+- 👯 I’m open to collaborate on **Java** and **C++** projects.
+- 🤔 I’m looking for help with more advanced **backend development** projects.
+- 📫 How to reach me: ahmedfarhat25@gmail.com
 
 ## Connect with me:
-[
-@Ahmedd_farhat
-profile.php?id=100046712171089
-https://codeforces.com/profile/Ahmed-Farhat
-https://www.instagram.com/ahmed_farhat_sayed/?fbclid=IwAR0wmLbDmjih2Nlpxg9colgMeTB8m6D-dHUNlENwhkMX4ucdEwr-uS83h8I
-]
+[![Twitter](https://img.shields.io/twitter/follow/ahmed?style=social)](https://twitter.com/ahmedfarhat25)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ahmedfarhat)
 
 ## Languages and Tools:
-[Icons or badges of technologies you use]
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedfarhat25&show_icons=true&theme=radical)
+
+## Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfarhat25&layout=compact&theme=radical)

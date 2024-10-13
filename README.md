@@ -12,12 +12,13 @@ Always learning and striving to improve!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ahmedfarhat)
 
 ## Competitive Programming Profiles:
-- [Codeforces](https://codeforces.com/profile/Ahmed-Farhat)
-- [LeetCode](https://leetcode.com/u/Ahmed_Farhat/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-555555?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Ahmed-Farhat)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ahmed_Farhat/)
 
 ## Languages and Tools:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
